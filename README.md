@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeQuietKid08
+- 👋 Hi, I’m LeQuietKid
 - 👀 I’m interested in web/game dev/cyber sec
 - 🏫 I’m currently learning Binary, JavaScript & Python
 - 🛠️ I’m a Jack of all trades, master @ none
